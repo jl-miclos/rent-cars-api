@@ -16,4 +16,9 @@ public class Cliente {
     @Id
     @GeneratedValue
     private Long id;
+
+    private String nome;
+    private String cpf;
+
+    private String telefone;
 }

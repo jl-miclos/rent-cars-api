@@ -1,8 +1,6 @@
 package br.gov.sp.fatec.config;
 
-import static br.gov.sp.fatec.constants.OpenApiConfigConstants.OPENAPI_INFO_DESCRIPTION;
-import static br.gov.sp.fatec.constants.OpenApiConfigConstants.OPENAPI_INFO_TITLE;
-import static br.gov.sp.fatec.constants.OpenApiConfigConstants.OPENAPI_INFO_VERSION;
+import static br.gov.sp.fatec.constants.OpenApiConfigConstants.*;
 import static java.util.stream.Stream.of;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
